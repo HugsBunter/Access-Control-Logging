@@ -1,0 +1,112 @@
+The UID id: 1000
+The file name is: test_read_1.txt
+The date is: 10/11/2023
+The timestamp: 22:58:22
+The access type: 0
+Is-action-denied: 0
+Fingerprint: NULL
+
+The UID id: 1000
+The file name is: test_read_1.txt
+The date is: 10/11/2023
+The timestamp: 22:58:38
+The access type: 0
+Is-action-denied: 0
+Fingerprint: NULL
+
+The UID id: 1000
+The file name is: test_read_1.txt
+The date is: 10/11/2023
+The timestamp: 22:59:07
+The access type: 0
+Is-action-denied: 0
+Fingerprint: NULL
+
+The UID id: 1000
+The file name is: test_read_1.txt
+The date is: 10/11/2023
+The timestamp: 22:59:36
+The access type: 0
+Is-action-denied: 0
+Fingerprint: NULL
+
+The UID id: 1000
+The file name is: test_read_1.txt
+The date is: 10/11/2023
+The timestamp: 22:59:52
+The access type: 2
+Is-action-denied: 0
+Fingerprint: f062c769ff608fa1431023c73fce4648
+
+The UID id: 1000
+The file name is: test_read_2.txt
+The date is: 10/11/2023
+The timestamp: 22:59:52
+The access type: 0
+Is-action-denied: 0
+Fingerprint: NULL
+
+The UID id: 1000
+The file name is: test_read_1.txt
+The date is: 10/11/2023
+The timestamp: 23:00:09
+The access type: 2
+Is-action-denied: 0
+Fingerprint: f062c769ff608fa1431023c73fce4648
+
+The UID id: 1000
+The file name is: test_read_2.txt
+The date is: 10/11/2023
+The timestamp: 23:00:09
+The access type: 0
+Is-action-denied: 0
+Fingerprint: NULL
+
+The UID id: 1000
+The file name is: test_read_3.txt
+The date is: 10/11/2023
+The timestamp: 23:00:09
+The access type: 0
+Is-action-denied: 0
+Fingerprint: NULL
+
+The UID id: 1000
+The file name is: test_read_3.txt
+The date is: 10/11/2023
+The timestamp: 23:00:09
+The access type: 2
+Is-action-denied: 0
+Fingerprint: da658cf8ca98120209d27fad1ba85f27
+
+The UID id: 1000
+The file name is: test_read_1.txt
+The date is: 10/11/2023
+The timestamp: 23:01:14
+The access type: 2
+Is-action-denied: 0
+Fingerprint: f062c769ff608fa1431023c73fce4648
+
+The UID id: 1000
+The file name is: test_read_2.txt
+The date is: 10/11/2023
+The timestamp: 23:01:14
+The access type: 2
+Is-action-denied: 0
+Fingerprint: 0907542a7cc29bd65d8281ffc27b3433
+
+The UID id: 1000
+The file name is: test_write_3.txt
+The date is: 10/11/2023
+The timestamp: 23:01:14
+The access type: 0
+Is-action-denied: 0
+Fingerprint: NULL
+
+The UID id: 1000
+The file name is: test_write_3.txt
+The date is: 10/11/2023
+The timestamp: 23:01:14
+The access type: 2
+Is-action-denied: 0
+Fingerprint: da658cf8ca98120209d27fad1ba85f27
+
